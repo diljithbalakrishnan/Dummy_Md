@@ -15,7 +15,7 @@ That “I” movie will be displayed in missing data(Moviebuff: Translations: Un
 ____
 - Currently we are registering normal movies and bilingual movies. We are not registering dubbed movies. We can register bilingual movies up to 100.
 
-![Missing data fields][EIDR_DETAILS/images/mandatory_fields.png]
+![Snip20200227_1](https://user-images.githubusercontent.com/46953898/75470881-606f1000-59b7-11ea-9e15-271bdce6eb19.png)
 
 ---
 #### Unmapped EIDR movies conflicts:
