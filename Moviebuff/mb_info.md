@@ -4,6 +4,7 @@
 **Moviebuff (Back end)** you will enter the data for the movie and other details from the back end, movie details will replicated in the Moviebuff website
 
 Movie can be classified as Bilingual and Dubbed movie
+
 **Bilingual movies**
 The same story and shotted in the different language is called bilingual movies
 Ex. Neram, Bahubali
