@@ -14,20 +14,30 @@ The same story are shotted once and convert into different language
 Ex. Avenger endgame
 
 **Movie Information**
+
 There are several fields to be filled to create a movie
+
 Basic details -> basic information 
+
 Cast & crew -> cast & crew details 
+
 Photos, videos, Audio -> photo, videos should be tagged to movies and music for the movie 
+
 Critic reviews -> reviews about the movies
+
 News -> news about the movie 
+
 Tech details and trivia -> basic details of the movie such as location, aspect ratio etc..
+
 Link -> the song and movie links for the social site
+
 Box office -> budget details for the movie
+
 CPLs -> composition playlist details
 
 
 Assume in the movie form, if you want to add any data in the dropdown. You should
-add the data from the Lists page.
+add the data from the LIST page.
  
 
 Contribution -> the user will contribute the movie details
