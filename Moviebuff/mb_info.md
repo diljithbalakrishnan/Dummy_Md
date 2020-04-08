@@ -17,7 +17,7 @@ Ex. Avenger endgame
 
 There are several fields to be filled to create a movie
 
-Basic details -> basic information 
+Basic details -> basic information like title language, country, release dates etc..
 
 Cast & crew -> cast & crew details 
 
@@ -34,6 +34,8 @@ Link -> the song and movie links for the social site
 Box office -> budget details for the movie
 
 CPLs -> composition playlist details
+
+Composition Playlist (CPL) is defined as contain information about the playing order of asset files
 
 
 Assume in the movie form, if you want to add any data in the dropdown. You should
