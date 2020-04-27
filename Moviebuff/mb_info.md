@@ -18,7 +18,9 @@ Ex. Avenger endgame
 
 
 
+ Inherit screen: 
  
+ If you want to propagate the data to all child movies(Bilingual, Dubbed). Add data in to the parent movie and publish the movie. it would take you to inherit screen, from that screen you can select the data changes should propagate to which child movie
 
 
 Conflict flow:
